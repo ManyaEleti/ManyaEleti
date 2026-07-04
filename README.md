@@ -77,4 +77,4 @@ ETL Pipelines · Data Warehousing · SQL Optimization · Data Quality Validation
 
 - Fall 2026 internships in ML/AI/Data
 
-- Maryland, USA · Open to remote and hybrid
+- Maryland, USA · Open to remote, hybrid and Onsite
