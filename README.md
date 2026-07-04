@@ -3,8 +3,7 @@
 <h1 align="center">Hi, I'm Manya Eleti 👋</h1>
 
 <p align="center">
-  <b>Machine Learning Engineer · Data Engineer · Generative AI</b><br>
-  Ex-JPMorgan Chase · MS Data Science @ UMBC · Maryland, USA
+  <b>Machine Learning Engineer · Data Engineer · Generative AI</b><br> · MS Data Science @ UMBC · Maryland, USA
 </p>
 
 <p align="center">
