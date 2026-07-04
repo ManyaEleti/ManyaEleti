@@ -80,19 +80,6 @@ ETL Pipelines · Data Warehousing · SQL Optimization · Data Quality Validation
 
 ---
 
-## Experience
-
-**Machine Learning Engineer** — JPMorgan Chase *(May 2023 – Dec 2024)*
-- Production fraud detection models on millions of daily financial transactions
-- End-to-end MLOps: model versioning, automated retraining, drift monitoring, AWS deployment
-- Feature engineering pipelines: 15+ behavioral, temporal, and aggregated risk signals
-
-**Data Engineer** — LTIMindtree *(Apr 2022 – Apr 2023)*
-- ETL pipelines on AWS (S3, Glue, Redshift) across multiple business domains
-- Automated data quality validation reducing pipeline errors by ~30%
-
----
-
 ## Education
 
 🎓 **University of Maryland, Baltimore County (UMBC)** — MS Data Science *(Jan 2025 – Dec 2026)* · GPA 3.97
