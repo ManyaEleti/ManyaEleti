@@ -7,17 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lakshmi-manya-eleti-116142241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:manyaeleti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/ManyaEleti">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/lakshmi-manya-eleti-116142241/">linkedin.com/in/lakshmi-manya-eleti-116142241</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:manyaeleti@gmail.com">manyaeleti@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/ManyaEleti">github.com/ManyaEleti</a>
 </p>
-
 ---
 
 ## About Me
@@ -34,10 +29,10 @@ I build things that work in production not just notebooks.
 
 ## Areas of Focus
 
-- 🤖 **Machine Learning** — fraud detection, churn prediction, risk analytics at production scale
-- 🔍 **Generative AI & RAG** — LLM applications, vector databases, semantic search on real data
-- 📊 **Data Engineering** — ETL pipelines, AWS infrastructure, data warehousing
-- 🛡️ **Cybersecurity ML** — malware and threat detection systems
+-  **Machine Learning** — fraud detection, churn prediction, risk analytics at production scale
+-  **Generative AI & RAG** — LLM applications, vector databases, semantic search on real data
+-  **Data Engineering** — ETL pipelines, AWS infrastructure, data warehousing
+-  **Cybersecurity ML** — malware and threat detection systems
 
 ---
 
@@ -68,28 +63,20 @@ ETL Pipelines · Data Warehousing · SQL Optimization · Data Quality Validation
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+`Python` `SQL` `AWS` `Docker` `FastAPI` `Streamlit` `Scikit-learn` `XGBoost` `FAISS` `Git` `Jupyter` `Linux`
 
 ---
 
 ## Education
 
-🎓 **University of Maryland, Baltimore County (UMBC)** — MS Data Science *(Jan 2025 – Dec 2026)* · GPA 3.97
+- **University of Maryland, Baltimore County (UMBC)** — MS Data Science *(Jan 2025 – Dec 2026)* · GPA 3.97
 
 ---
 
 ## Currently Open To
 
-⭐ Full-time roles: **ML Engineer · Data Engineer · AI Engineer · GenAI Engineer**
+- Full-time roles: **ML Engineer · Data Engineer · AI Engineer · GenAI Engineer**
 
-⭐ Fall 2026 internships in ML/AI/Data
+- Fall 2026 internships in ML/AI/Data
 
-📍 Maryland, USA · Open to remote and hybrid
+- Maryland, USA · Open to remote and hybrid
