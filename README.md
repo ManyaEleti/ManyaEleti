@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Manya Eleti 
+<h1 align="center">Hi, I'm Manya Eleti 👋</h1>
 
 <p align="center">
   <b>Machine Learning Engineer · Data Engineer · Generative AI</b><br> · MS Data Science @ UMBC · Maryland, USA
@@ -14,8 +14,6 @@
   <a href="https://github.com/ManyaEleti">github.com/ManyaEleti</a>
 </p>
 ---
-
-## About Me
 
 ## About Me
 
