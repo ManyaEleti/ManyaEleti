@@ -22,9 +22,13 @@
 
 ## About Me
 
-Machine Learning Engineer with 2+ years of production experience at **JPMorgan Chase** building fraud detection systems, predictive risk models, and MLOps pipelines on high-volume financial transaction data.
+## About Me
 
-Currently pursuing **MS in Data Science at UMBC (GPA 3.97)**, combining production industry experience with modern AI engineering — focused on Generative AI, RAG pipelines, LLMs, and vector databases applied to real financial problems.
+ML Engineer and Data Engineer with production experience across financial services, specializing in the full ML lifecycle from feature engineering and model development to deployment, monitoring and retraining at scale.
+
+Currently pursuing **MS in Data Science at UMBC (GPA 3.97)** with a research focus on Generative AI, RAG pipelines and LLM applications applied to real-world financial data problems.
+
+I build things that work in production not just notebooks.
 
 ---
 
