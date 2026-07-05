@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm Manya Eleti 👋</h1>
+<h1 align="center">Hi, I'm Manya Eleti </h1>
 
 <p align="center">
   <b>Machine Learning Engineer · Data Engineer · Generative AI</b><br> · MS Data Science @ UMBC · Maryland, USA
@@ -13,6 +11,7 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/ManyaEleti">github.com/ManyaEleti</a>
 </p>
+
 ---
 
 ## About Me
@@ -77,4 +76,4 @@ ETL Pipelines · Data Warehousing · SQL Optimization · Data Quality Validation
 
 - Fall 2026 internships in ML/AI/Data
 
-- Maryland, USA · Open to remote, hybrid and Onsite
+- United States · Open to remote, hybrid and Onsite
